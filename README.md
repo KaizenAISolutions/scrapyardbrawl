@@ -10,6 +10,12 @@ Fonts are the game's own OFL fonts (Bangers display, Rubik body). Colors are the
 2. The privacy policy makes promises the ad integration must keep: see `game/docs/store/APPLE_HANDOFF.md` §A6.2.
 3. Preview locally: `cd site && python3 -m http.server 8743`, then open http://localhost:8743.
 
+## Live
+
+Published 2026-11-01 to GitHub Pages from the public repo `KaizenAISolutions/scrapyardbrawl` (only these files):
+https://kaizenaisolutions.github.io/scrapyardbrawl/ . To update: copy `site/` into that repo and push `main`.
+Operator: Kaizen AI Solutions; contact: hello@kaizenaisolutions.com.
+
 ## Hosting
 
 The pages are commercial (they support a paid app), so **not Vercel Hobby**: its free tier is
